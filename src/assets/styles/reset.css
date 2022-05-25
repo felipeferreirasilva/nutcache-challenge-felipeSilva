@@ -1,0 +1,11 @@
+.MuiDataGrid-columnHeaders {
+  background: #efefef;
+}
+
+.MuiDataGrid-cell {
+  cursor: pointer;
+}
+
+.MuiDataGrid-cell:focus {
+  outline: none !important;
+}
