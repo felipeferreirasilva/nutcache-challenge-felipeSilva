@@ -2,6 +2,8 @@
 
 This is a simple CRUD of employers with React
 
+![](https://i.ibb.co/QmMz7z7/mockuper-1.png)
+
 ## How to run
 
 To run this project, you need to generate a new KEY on [https://crudcrud.com](https://crudcrud.com/).
