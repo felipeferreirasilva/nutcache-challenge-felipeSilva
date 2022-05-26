@@ -1,7 +1,5 @@
 # Nutcache
 
-This is a simple CRUD of employers with React
-
 ![](https://i.ibb.co/QmMz7z7/mockuper-1.png)
 
 ## How to run
